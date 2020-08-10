@@ -49,7 +49,7 @@
     text-decoration:none ;
     color: var(--color-button-text);
 
-    transition: background-color-text;
+    transition: background-color 0.2s;
 }
 .buttons-container a:first-child {
     margin-right: 1.6rem;
@@ -87,4 +87,3 @@
     margin-left: 0.8rem;
 }
 
-@media()
